@@ -17,7 +17,12 @@
   "dependencies": {
     "caporal": "^0.10.0",
     "chalk": "^2.4.1",
+    "clipboardy": "^1.2.3",
     "nord": "^0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xav-b/palette.git"
   },
   "bin": {
     "palette": "index.js"
