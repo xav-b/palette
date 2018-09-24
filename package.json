@@ -1,0 +1,17 @@
+{
+  "name": "palette-cli",
+  "version": "0.1.0",
+  "description": "Display color palettes in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Xavier Bruhiere <xavier.bruhiere@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.10.0",
+    "chalk": "^2.4.1",
+    "nord": "^0.2.1"
+  }
+}
