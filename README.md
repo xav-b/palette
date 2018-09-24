@@ -15,10 +15,12 @@ This package integrates this workflow in your terminal.
 palette ls nord
 ```
 
-![Alt text](/screenshot.png?raw=true "Palette")
+<p align="center"> 
+  <img src="./screenshot.png">
+</p>
 
 ```bash
-# read more about the color palette
+# read more online about the color palette
 open $(palette doc nord)
 ```
 
