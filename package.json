@@ -1,6 +1,6 @@
 {
   "name": "palette-cli",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Display color palettes in the terminal",
   "main": "index.js",
   "scripts": {
