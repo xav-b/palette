@@ -1,12 +1,17 @@
 {
   "name": "palette-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Display color palettes in the terminal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["tool", "design", "cli", "color"],
+  "keywords": [
+    "tool",
+    "design",
+    "cli",
+    "color"
+  ],
   "author": "Xavier Bruhiere <xavier.bruhiere@gmail.com>",
   "license": "MIT",
   "dependencies": {
