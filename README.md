@@ -1,18 +1,14 @@
 # [Nord palette][nord] shortcut
 
-I love the color scheme and uses it in various situations. Unfortunately
-it usually involves opening in the browser the color screenshort + the
+<p align="center"><img src="https://www.npmjs.com/static/images/touch-icons/favicon-32x32.png" width=24 height=24/> <a href="https://www.npmjs.com/package/nord"><img src="https://img.shields.io/npm/v/nord.svg?style=flat-square"/></a> </p>
+
+I love the color scheme and use it in various situations. Unfortunately
+it usually involves opening in the browser a visual + the
 css/sass sources to get the actual hex code.
 
-This package integrates this workflow in your terminal.
+This package integrates this workflow in the terminal.
 
 `npm install -g palette-cli && palette --help`
-
-
-**Features**
-
-- Pretty print theme in (somewhat) modern terminals
-- copy to clipboard
 
 
 ### Usage
@@ -22,7 +18,7 @@ palette ls nord
 ```
 
 <p align="center"> 
-  <img src="./screenshot.png"  alt="Output" height="42" width="42">
+  <img src="./screenshot.png"  alt="Output" height="300" width=300"">
 </p>
 
 ```bash
@@ -37,6 +33,13 @@ open $(palette doc nord)
 
 - [ ] Write it in Typescript
 - [x] Copy hex code to clipboard
+
+
+---
+
+<p align="center">Copyright &copy; 2018-present Xavier Bruhiere</p>
+
+<p align="center"><a href="https://github.com/xav-b/palette/blob/develop/LICENSE"><img src="https://img.shields.io/badge/License-MIT-5E81AC.svg?style=flat-square"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.svg?style=flat-square"/></a></p>
 
 
 [nord]: https://arcticicestudio.github.io/nord/
