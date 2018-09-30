@@ -1,6 +1,6 @@
 # [Nord palette][nord] shortcut
 
-<p align="center"><img src="https://www.npmjs.com/static/images/touch-icons/favicon-32x32.png" width=24 height=24/> <a href="https://www.npmjs.com/package/nord"><img src="https://img.shields.io/npm/v/nord.svg?style=flat-square"/></a> </p>
+<a href="https://www.npmjs.com/package/nord"><img src="https://img.shields.io/npm/v/nord.svg?style=flat-square"/></a>
 
 I love the color scheme and use it in various situations. Unfortunately
 it usually involves opening in the browser a visual + the
@@ -18,7 +18,7 @@ palette ls nord
 ```
 
 <p align="center"> 
-  <img src="./screenshot.png"  alt="Output" height="300" width=300"">
+  <img src="./screenshot.png" alt="Output" height="500" width=500"">
 </p>
 
 ```bash
@@ -31,7 +31,7 @@ open $(palette doc nord)
 
 ### TODO
 
-- [ ] Write it in Typescript
+- [ ] [Write it in Typescript](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [x] Copy hex code to clipboard
 
 
