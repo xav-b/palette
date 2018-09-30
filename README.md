@@ -2,7 +2,7 @@
 
 <a href="https://www.npmjs.com/package/nord"><img src="https://img.shields.io/npm/v/nord.svg?style=flat-square"/></a>
 
-I love the [Nord color scheme][nord] and use it in [various projects](www.xav-b.fr).
+I love the [Nord color scheme][nord] and use it in [various projects](http://www.xav-b.fr).
 
 Unfortunately it usually involves opening in the browser a visual + the
 css/sass sources to get the actual hex code.
@@ -32,9 +32,13 @@ palette cp nord8
 open $(palette doc nord)
 ```
 
+---
+
 ### TODO
 
 - [ ] [Write it in Typescript](https://github.com/Microsoft/TypeScript-Node-Starter)
+- [ ] Publish with [np](https://github.com/sindresorhus/np)
+- [ ] Implement [Ayu](https://github.com/ayu-theme/ayu-colors)
 - [x] Copy hex code to clipboard
 
 
