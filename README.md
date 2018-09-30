@@ -1,9 +1,10 @@
-# [Nord palette][nord] shortcut
+# Palette
 
 <a href="https://www.npmjs.com/package/nord"><img src="https://img.shields.io/npm/v/nord.svg?style=flat-square"/></a>
 
-I love the color scheme and use it in various situations. Unfortunately
-it usually involves opening in the browser a visual + the
+I love the [Nord color scheme][nord] and use it in [various projects](www.xav-b.fr).
+
+Unfortunately it usually involves opening in the browser a visual + the
 css/sass sources to get the actual hex code.
 
 This package integrates this workflow in the terminal.
@@ -11,14 +12,16 @@ This package integrates this workflow in the terminal.
 `npm install -g palette-cli && palette --help`
 
 
-### Usage
+## Usage
 
 ```bash
 palette ls nord
 ```
 
 <p align="center"> 
-  <img src="./screenshot.png" alt="Output" height="500" width=500"">
+  <br><br><br>
+  <img src="./record.svg" alt="Output" width="600">
+  <br><br><br>
 </p>
 
 ```bash

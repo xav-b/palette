@@ -1,0 +1,28 @@
+
+Polar Night
+
+nord0	     	#2e3440		Base component color of "Polar Night".
+nord1	     	#3b4252		Lighter shade color of the base component color.
+nord2	     	#434c5e		Lighter shade color of the base component color.
+nord3	     	#4c566a		Lighter shade color of the base component color.
+
+Snow Storm
+
+nord4	     	#d8dee9		Base component color of "Snow Storm".
+nord5	     	#e5e9f0		Lighter shade color of the base component color.
+nord6	     	#eceff4		Lighter shade color of the base component color.
+
+Frost
+
+nord7	     	#8fbcbb		Bluish core color.
+nord8	     	#88c0d0		Bluish core accent color.
+nord9	     	#81a1c1		Bluish core color.
+nord10	     	#5e81ac		Bluish core color.
+
+Aurora
+
+nord11	     	#bf616a		Colorful component color.
+nord12	     	#d08770		Colorful component color.
+nord13	     	#ebcb8b		Colorful component color.
+nord14	     	#a3be8c		Colorful component color.
+nord15	     	#b48ead		Colorful component color.
